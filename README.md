@@ -1,5 +1,4 @@
-# baywatch
-Operational current forecast for the Ilha Grande and Sepetiba bays
+# CURRENT FORECAST
+## Operational current forecast for the Ilha Grande and Sepetiba bays
 
-
-[![Build Status](https://travis-ci.org/dougfraga/baywatch.svg?branch=master)](https://travis-ci.org/dougfraga/baywatch)
+### FRONT-END upadetd with Leaflet framework to display the model results
