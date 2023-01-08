@@ -1,4 +1,5 @@
 *.py
 *.txt
+*.json
 .ftpquota
 images/general/*
